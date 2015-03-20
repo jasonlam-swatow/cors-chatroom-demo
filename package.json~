@@ -1,0 +1,20 @@
+{
+  "name": "CORS-Chatroom-Demo",
+  "version": "1.0.0",
+  "description": "A cross origin chatroom using CORS, bulit on Node.js & Express",
+  "author": "Jason Lam <jasonlam0619@yahoo.com>",
+  "dependencies": {
+    "express": "4.11.2",
+    "ejs": "^1.0.0",
+    "body-parser": "^1.5.2",
+    "method-override": "^2.1.2",
+    "errorhandler": "^1.1.1"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [
+    "cors",
+    "chat"
+  ],
+  "private": "true"
+}
