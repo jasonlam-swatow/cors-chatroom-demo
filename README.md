@@ -1,7 +1,7 @@
 # CORS-Chatroom-Demo
 
-�@��һ������CORS����Դ�YԴ������ԭ�팑�ɵĿ�Դ�����ґ��ã���Ҏ��ͬԴ���ԣ�ʹ�ò�ͬԴ�µ��������c�˴�ͨӍ��
+這是一個利用 CORS（跨源資源共享）原理寫成的跨源聊天室應用，能規避同源策略，使得不同源下的聊天室與彼此通訊。
 
-## Overview
+## Guide
 
-ʹ��Node.js��Express�������ه���������ς���Ո�_���C���Ѱ��bNode.js���K�\��`node app.js`�����L`localhost:3000`��`localhost:3001`�����܌��F��Դ���졣
+使用 Node.js 和 Express 搭建，各依賴包已完整上傳。請確保機器已安裝 Node.js，並運行`node app.js`，造訪`localhost:3000`和`localhost:3001`，便能實現跨源聊天。
